@@ -34,7 +34,7 @@ function Contact() {
 		<div className="page-container">
 			<h1>Contact Me</h1>
 			<div style={{ border: '1px solid #ccc', padding: '20px', marginBottom: '20px' }}>
-				<p>Email: paul.ngu@example.com</p>
+				<p>email: npaulaso@my.centennialcollege.ca</p>
 				<p>Phone: (123) 456-7890</p>
 				<p>Address: Toronto, ON</p>
 			</div>
